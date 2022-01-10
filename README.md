@@ -1,6 +1,5 @@
 # My Job Boards 2022
-
-A curated list of awesome job boards.
+My awesome French job boards.
 
 ## Table of Contents
 
